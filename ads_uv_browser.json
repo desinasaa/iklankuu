@@ -2,13 +2,13 @@
     "Ads": [
         {
             "on_off_ads": "on",
-            "banner_type": "admob",
-            "inters_type": "admob",
+            "banner_type": "facebook",
+            "inters_type": "facebook",
             "admob_banner": "ca-app-pub-6487614011560608/4594516942",
             "admob_inters": "ca-app-pub-6487614011560608/8150618579",
-            "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "facebook_inters": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "interval_inters": 5
+            "facebook_banner": "1434160304202289_1440325423585777",
+            "facebook_inters": "1434160304202289_1461988701419449",
+            "interval_inters": 7
         }
     ]
 }
