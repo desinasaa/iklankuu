@@ -2,11 +2,11 @@
     "Ads": [
         {
             "on_off_ads": "on",
-            "banner_type": "off",
+            "banner_type": "facebook",
             "inters_type": "admob",
             "admob_banner": "ca-app-pub-6487614011560608/5834246691",
             "admob_inters": "ca-app-pub-6487614011560608/8159100668",
-            "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "facebook_banner": "2045552242481825_2045552899148426",
             "facebook_inters": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
             "interval_inters": 8
         }
