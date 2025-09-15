@@ -7,7 +7,7 @@
     "interstitial": {
       "enabled": true,
       "adUnitId": "ca-app-pub-3940256099942544/1033173712",
-      "clickInterval": 10,
+      "clickInterval": 6,
       "timeDelay": 30000
     },
     "appOpen": {
@@ -17,3 +17,4 @@
     }
   }
 }
+
