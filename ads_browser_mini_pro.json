@@ -8,7 +8,7 @@
       "enabled": true,
       "adUnitId": "ca-app-pub-3940256099942544/1033173712",
       "clickInterval": 6,
-      "timeDelay": 30000
+      "timeDelay": 20000
     },
     "appOpen": {
       "enabled": true,
@@ -17,4 +17,5 @@
     }
   }
 }
+
 
