@@ -1,22 +1,23 @@
 {
   "ads": {
     "banner": {
-      "enabled": false,
+      "enabled": true,
       "adUnitId": "ca-app-pub-3940256099942544/6300978111"
     },
     "interstitial": {
-      "enabled": false,
+      "enabled": true,
       "adUnitId": "ca-app-pub-3940256099942544/1033173712",
-      "clickInterval": 20,
-      "timeDelay": 30000
+      "clickInterval": 10,
+      "timeDelay": 25000
     },
     "appOpen": {
-      "enabled": false,
+      "enabled": true,
       "adUnitId": "ca-app-pub-3940256099942544/9257395921",
-      "timeDelay": 60000
+      "timeDelay": 40000
     }
   }
 }
+
 
 
 
