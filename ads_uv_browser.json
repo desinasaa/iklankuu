@@ -1,14 +1,14 @@
 {
     "Ads": [
         {
-            "on_off_ads": "on",
+            "on_off_ads": "off",
             "banner_type": "facebook",
-            "inters_type": "facebook",
+            "inters_type": "admob",
             "admob_banner": "ca-app-pub-6487614011560608/4594516942",
             "admob_inters": "ca-app-pub-6487614011560608/8150618579",
             "facebook_banner": "1434160304202289_1440325423585777",
             "facebook_inters": "1434160304202289_1461988701419449",
-            "interval_inters": 7
+            "interval_inters": 9
         }
     ]
 }
