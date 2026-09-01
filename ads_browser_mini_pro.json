@@ -2,17 +2,17 @@
   "ads": {
     "banner": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/6300978111"
+      "adUnitId": "ca-app-pub-6487614011560608/1249301677"
     },
     "interstitial": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/1033173712",
+      "adUnitId": "ca-app-pub-6487614011560608/1359367912",
       "clickInterval": 12,
       "timeDelay": 25000
     },
     "appOpen": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/9257395921",
+      "adUnitId": "ca-app-pub-6487614011560608/3501505624",
       "timeDelay": 40000
     }
   }
