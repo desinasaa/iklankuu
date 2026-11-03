@@ -4,13 +4,13 @@
             "on_off_ads": "on",
             "on_off_khusu_openads": "on",
             "banner_type": "admob",
-            "inters_type": "admob_off",
+            "inters_type": "admob",
             "reward_type": "admob",
             "admob_banner": "ca-app-pub-6487614011560608/5834246691",
             "admob_inters": "ca-app-pub-6487614011560608/8159100668",
             "admob_reward": "ca-app-pub-6487614011560608/5924830735",
             "reward_dns_duration_hours": 12,
-            "interval_inters": 10
+            "interval_inters": 20
             
         }
     ]
