@@ -8,7 +8,7 @@
             "admob_inters": "ca-app-pub-6487614011560608/8150618579",
             "facebook_banner": "1434160304202289_1440325423585777",
             "facebook_inters": "1434160304202289_1461988701419449",
-            "interval_inters": 4,
+            "interval_inters": 20,
 			"min_interval_inters": 3,
 			"min_interstitial_cooldown_ms": 180000,
 			"min_app_open_cooldown_ms": 180000
